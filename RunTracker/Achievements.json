@@ -1,0 +1,44 @@
+[
+     {
+     "title": "5K",
+     "distance": "5000",
+     "info": "The 5-K is the most popular racing distance in the United States. If you are a beginner, you can be standing at the starting line of your first 5-K after only a few months training. It will take some effort on your part, but not a lot.",
+     "image": "5k.png"
+     },
+     {
+     "title": "8K",
+     "distance": "8000",
+     "info": "The 8-K serves as an 'in-between' distance, almost an 'offbeat' distance since it is not run that often. Five miles in length, the 8-K occupies a spot somewhere between the more popular 5-K and 10-K distances. Yet if there is a big road race 8-K in your town, you're going to run it.",
+     "image": "8k.png"
+     },
+     {
+     "title": "10K",
+     "distance": "10000",
+     "info": "TEN KILOMETERS IS A POPULAR RACING DISTANCE. Many runners start by entering a 5-K, then shift upwards to the 10-K (10,000 meters, or 6.2 miles) en route to a marathon. Or they begin at the half and full marathon distances and look downward, realizing they can improve their speed and race more frequently at shorter distances.",
+     "image": "10K.png"
+     },
+     {
+     "title": "15K",
+     "distance": "15000",
+     "info": "The 15-K is a useful and exciting racing distance. It’s a 'between' distance. The 15-K offers a challenge for those who have run their first 5-K and 10-K races and want to go a bit further without quite committing to a marathon, or even a half marathon. ",
+     "image": "15k.png"
+     },
+     {
+     "title": "10 mile",
+     "distance": "16000",
+     "info": "A few efforts start from 15K",
+     "image": "10K.png"
+     },
+     {
+     "title": "Half Marathon",
+     "distance": "21000",
+     "info": "THE HALF MARATHON IS A FRIENDLY DISTANCE. Beginners, who have gotten their introduction to road running in a 5-K or 10-K, can look to the half as the next step upward. Experienced runners like half marathons, because racing 13 miles requires somewhat less time commitment than does a full 26-mile marathon. They can recover more rapidly.",
+     "image": "halfMarathon.png"
+     },
+     {
+     "title": "Marathon",
+     "distance": "42000",
+     "info": "...",
+     "image": "Marathon.png"
+     }
+]
